@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XXXVideoPicker", "XXXVideoPicker\XXXVideoPicker.csproj", "{5C35546D-92B5-47D5-9405-204C7A60ED97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C35546D-92B5-47D5-9405-204C7A60ED97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C35546D-92B5-47D5-9405-204C7A60ED97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C35546D-92B5-47D5-9405-204C7A60ED97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C35546D-92B5-47D5-9405-204C7A60ED97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D8764DB-CD0A-4817-8B9C-8F10A5075EF4}
+	EndGlobalSection
+EndGlobal
